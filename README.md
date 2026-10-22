@@ -2,6 +2,10 @@
 
 정육면체를 접고 펼치며 전개도를 확인하는 웹 앱.
 
+| 분류 | 상태 | 스택 | 바로 보기 |
+| --- | --- | --- | --- |
+| 교육 · 웹앱 | 완료 | JavaScript · Three.js | — |
+
 ## 실행
 
 `index.html`을 브라우저로 연다. Three.js를 CDN에서 불러오므로 인터넷이 필요하다.
@@ -28,3 +32,10 @@
 - `index.html` — 페이지
 - `style.css` — 스타일
 - `app.js` — 전개도 생성, 접기, 퀴즈
+
+---
+
+**관련 저장소** · [spatial-perception-training](https://github.com/JimProKing/spatial-perception-training)
+
+<sub>[JimProKing](https://github.com/JimProKing) · 이영찬 — 전체 저장소는 프로필의 프로젝트 지도에서 분야별로 볼 수 있습니다.</sub>
+<!-- jpk-footer -->
